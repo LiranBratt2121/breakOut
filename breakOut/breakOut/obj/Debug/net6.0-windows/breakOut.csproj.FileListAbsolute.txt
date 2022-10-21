@@ -1,0 +1,17 @@
+C:\Users\bratt\source\repos\breakOut\breakOut\bin\Debug\net6.0-windows\breakOut.exe
+C:\Users\bratt\source\repos\breakOut\breakOut\bin\Debug\net6.0-windows\breakOut.deps.json
+C:\Users\bratt\source\repos\breakOut\breakOut\bin\Debug\net6.0-windows\breakOut.runtimeconfig.json
+C:\Users\bratt\source\repos\breakOut\breakOut\bin\Debug\net6.0-windows\breakOut.dll
+C:\Users\bratt\source\repos\breakOut\breakOut\bin\Debug\net6.0-windows\breakOut.pdb
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.csproj.AssemblyReference.cache
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.Form1.resources
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.csproj.GenerateResource.cache
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.AssemblyInfoInputs.cache
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.AssemblyInfo.cs
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.csproj.CoreCompileInputs.cache
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.dll
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\refint\breakOut.dll
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.pdb
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\breakOut.genruntimeconfig.cache
+C:\Users\bratt\source\repos\breakOut\breakOut\obj\Debug\net6.0-windows\ref\breakOut.dll
